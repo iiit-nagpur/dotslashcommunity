@@ -10,7 +10,7 @@ color: black;
         background-position-x: 0%;
         background-position-y: 0%;
         background-attachment: scroll;
-        background-size: auto;
+        /*background-size: auto;*/
     background-size: cover;
     background-attachment: fixed;
     background-position: 10% 0%;
