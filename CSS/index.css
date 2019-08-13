@@ -125,24 +125,24 @@ color: black;
         background-position-x: 0%;
         background-position-y: 0%;
         background-attachment: scroll;
-        /*background-size: auto;*/
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: 10% 0%;
-    padding: 200px 0 280px 0;
-    position: relative;
+        background-size: auto;
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: 10% 0%;
+        padding: 200px 0 280px 0;
+        position: relative;
 }
 #slider2 {
-    background: url('../Picture/code4.jpg') no-repeat;
+        background: url('../Picture/code4.jpg') no-repeat;
         background-position-x: 0%;
         background-position-y: 0%;
         background-attachment: scroll;
         background-size: auto;
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: 10% 0%;
-padding: 200px 0 280px 0;
-    position: relative;
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: 10% 0%;
+        padding: 200px 0 280px 0;
+        position: relative;
 }
 
 #slider3 {
